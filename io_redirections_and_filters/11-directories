@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dR ./* |wc -w
+ls -d -R ./* |wc -l
